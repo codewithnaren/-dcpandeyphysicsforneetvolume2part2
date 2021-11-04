@@ -1,4 +1,4 @@
-const url = 'https://codewithnaren.github.io/dcpandeyphysicsforneetvolume2part1/dcpandeyphysicsforneetvolume2part1.pdf';
+const url = 'https://codewithnaren.github.io/dcpandeyphysicsforneetvolume2part2/dcpandeyphysicsforneetvolume2part2.pdf';
 
 
 let pdfDoc = null,
